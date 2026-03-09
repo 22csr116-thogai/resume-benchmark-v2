@@ -1,0 +1,44 @@
+{
+  "sample_resume_1.pdf": {
+    "skills": [
+      {"skill": "Python",          "years": 4.0},
+      {"skill": "Django",          "years": 3.0},
+      {"skill": "Flask",           "years": 2.0},
+      {"skill": "PostgreSQL",      "years": 4.0},
+      {"skill": "Docker",          "years": 2.0},
+      {"skill": "AWS",             "years": 2.0},
+      {"skill": "REST APIs",       "years": 4.0},
+      {"skill": "Git",             "years": 4.0},
+      {"skill": "Kubernetes",      "years": 1.0},
+      {"skill": "Redis",           "years": 2.0}
+    ]
+  },
+  "sample_resume_2.docx": {
+    "skills": [
+      {"skill": "Java",            "years": 6.0},
+      {"skill": "Spring Boot",     "years": 5.0},
+      {"skill": "MySQL",           "years": 6.0},
+      {"skill": "Kafka",           "years": 3.0},
+      {"skill": "Microservices",   "years": 4.0},
+      {"skill": "Jenkins",         "years": 3.0},
+      {"skill": "Docker",          "years": 3.0},
+      {"skill": "Kubernetes",      "years": 2.0},
+      {"skill": "AWS",             "years": 4.0},
+      {"skill": "OAuth2",          "years": 3.0}
+    ]
+  },
+  "sample_resume_3.txt": {
+    "skills": [
+      {"skill": "React.js",        "years": 3.0},
+      {"skill": "Node.js",         "years": 3.0},
+      {"skill": "TypeScript",      "years": 2.0},
+      {"skill": "MongoDB",         "years": 3.0},
+      {"skill": "HTML5",           "years": 4.0},
+      {"skill": "CSS3",            "years": 4.0},
+      {"skill": "GraphQL",         "years": 1.0},
+      {"skill": "Docker",          "years": 1.0},
+      {"skill": "Git",             "years": 4.0},
+      {"skill": "Tailwind CSS",    "years": 1.0}
+    ]
+  }
+}
